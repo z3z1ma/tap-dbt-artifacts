@@ -2,7 +2,7 @@
 
 import abc
 import json
-from typing import Optional, Iterable
+from typing import Iterable, Optional
 
 from singer_sdk.streams import Stream
 
